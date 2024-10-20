@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://snakem982.12131618.xyz/2024/10/19/20241019/</loc>
+    <loc>https://snakem982.12131618.xyz/2024/10/20/20241020/</loc>
     
-    <lastmod>2024-10-19</lastmod>
+    <lastmod>2024-10-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +13,16 @@
   <url>
     <loc>https://snakem982.12131618.xyz/2024/05/11/20240511/</loc>
     
-    <lastmod>2024-10-18</lastmod>
+    <lastmod>2024-10-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://snakem982.12131618.xyz/2024/10/19/20241019/</loc>
+    
+    <lastmod>2024-10-19</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -229,7 +238,7 @@
 
   <url>
     <loc>https://snakem982.12131618.xyz/</loc>
-    <lastmod>2024-10-19</lastmod>
+    <lastmod>2024-10-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -237,175 +246,189 @@
   
   <url>
     <loc>https://snakem982.12131618.xyz/tags/%E5%85%8D%E8%B4%B9%E8%B5%84%E6%BA%90/</loc>
-    <lastmod>2024-10-19</lastmod>
+    <lastmod>2024-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://snakem982.12131618.xyz/tags/%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD/</loc>
-    <lastmod>2024-10-19</lastmod>
+    <lastmod>2024-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://snakem982.12131618.xyz/tags/%E5%85%8D%E8%B4%B9%E5%AE%B9%E5%99%A8/</loc>
-    <lastmod>2024-10-19</lastmod>
+    <lastmod>2024-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://snakem982.12131618.xyz/tags/Docker/</loc>
-    <lastmod>2024-10-19</lastmod>
+    <lastmod>2024-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://snakem982.12131618.xyz/tags/%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9/</loc>
-    <lastmod>2024-10-19</lastmod>
+    <lastmod>2024-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://snakem982.12131618.xyz/tags/%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94/</loc>
-    <lastmod>2024-10-19</lastmod>
+    <lastmod>2024-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://snakem982.12131618.xyz/tags/VPS/</loc>
-    <lastmod>2024-10-19</lastmod>
+    <lastmod>2024-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://snakem982.12131618.xyz/tags/%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
-    <lastmod>2024-10-19</lastmod>
+    <lastmod>2024-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://snakem982.12131618.xyz/tags/%E7%A9%BA%E9%97%B4%E6%90%9C%E7%B4%A2/</loc>
-    <lastmod>2024-10-19</lastmod>
+    <lastmod>2024-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://snakem982.12131618.xyz/tags/CDN/</loc>
-    <lastmod>2024-10-19</lastmod>
+    <lastmod>2024-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://snakem982.12131618.xyz/tags/%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/</loc>
-    <lastmod>2024-10-19</lastmod>
+    <lastmod>2024-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://snakem982.12131618.xyz/tags/%E7%94%B5%E5%AD%90%E4%B9%A6/</loc>
-    <lastmod>2024-10-19</lastmod>
+    <lastmod>2024-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://snakem982.12131618.xyz/tags/%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87/</loc>
-    <lastmod>2024-10-19</lastmod>
+    <lastmod>2024-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://snakem982.12131618.xyz/tags/%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99/</loc>
-    <lastmod>2024-10-19</lastmod>
+    <lastmod>2024-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://snakem982.12131618.xyz/tags/%E6%96%87%E4%BB%B6%E4%BC%A0%E8%BE%93/</loc>
-    <lastmod>2024-10-19</lastmod>
+    <lastmod>2024-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://snakem982.12131618.xyz/tags/%E5%B1%80%E5%9F%9F%E7%BD%91/</loc>
-    <lastmod>2024-10-19</lastmod>
+    <lastmod>2024-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://snakem982.12131618.xyz/tags/Windows/</loc>
-    <lastmod>2024-10-19</lastmod>
+    <lastmod>2024-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://snakem982.12131618.xyz/tags/Office%E6%BF%80%E6%B4%BB/</loc>
-    <lastmod>2024-10-19</lastmod>
+    <lastmod>2024-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://snakem982.12131618.xyz/tags/%E6%B8%B8%E6%88%8F%E4%B8%8B%E8%BD%BD/</loc>
-    <lastmod>2024-10-19</lastmod>
+    <lastmod>2024-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://snakem982.12131618.xyz/tags/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/</loc>
-    <lastmod>2024-10-19</lastmod>
+    <lastmod>2024-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://snakem982.12131618.xyz/tags/OCR/</loc>
-    <lastmod>2024-10-19</lastmod>
+    <lastmod>2024-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://snakem982.12131618.xyz/tags/%E5%85%8D%E8%B4%B9%E5%9F%9F%E5%90%8D/</loc>
-    <lastmod>2024-10-19</lastmod>
+    <lastmod>2024-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://snakem982.12131618.xyz/tags/%E5%BC%80%E5%8F%91/</loc>
-    <lastmod>2024-10-19</lastmod>
+    <lastmod>2024-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://snakem982.12131618.xyz/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
-    <lastmod>2024-10-19</lastmod>
+    <lastmod>2024-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://snakem982.12131618.xyz/tags/%E5%85%8D%E8%B4%B9%E9%82%AE%E7%AE%B1/</loc>
-    <lastmod>2024-10-19</lastmod>
+    <lastmod>2024-10-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://snakem982.12131618.xyz/tags/%E6%B8%B8%E6%88%8F/</loc>
+    <lastmod>2024-10-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://snakem982.12131618.xyz/tags/%E7%BD%91%E7%AB%99/</loc>
+    <lastmod>2024-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
