@@ -1,1 +1,1 @@
-My blog https://snakem982.12131618.xyz
+My blog https://blog.snakem982.us
